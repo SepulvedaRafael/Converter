@@ -7,4 +7,5 @@
 
 <p><i>Go to a folder, right click and go to "Git Bash Here".</i></p>
 <p><i>In it you will enter the following command:</i></p>
-`git clone https://github.com/SepulvedaRafael/Converter.git`
+
+` git clone https://github.com/SepulvedaRafael/Converter.git `
