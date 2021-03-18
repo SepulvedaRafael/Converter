@@ -2,7 +2,7 @@
 
 It was created through training in the Dart language.
 
-This converter is currently being possible to convert into: Temperature, Length and Mass dsadadsada.
+This converter is currently being possible to convert into: Temperature, Length and Mass.
 
 ## ❄️ Instalattion ❄️
 
