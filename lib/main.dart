@@ -3,6 +3,7 @@ import 'dart:io';
 import 'src/temperatura.dart';
 import 'src/massa.dart';
 import 'src/comprimento.dart';
+import 'src/dinheiro.dart';
 
 void main(List<String> arguments) {
   print("Tipo de Conversão: ");
@@ -14,6 +15,8 @@ void main(List<String> arguments) {
     Massa();
   } else if (conversao == "Comprimento") {
     Comprimento();
+  } else if (conversao == "Dinheiro") {
+    Dinheiro();
   } else {
     print("Conversão não encontrada!");
   }
